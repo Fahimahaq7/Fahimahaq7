@@ -10,63 +10,36 @@
 [![GitHub fahimahaq](https://img.shields.io/github/followers/fahimahaq?label=follow&style=social)](https://github.com/Fahimahaq7)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZtbXB6dnlkc2FxeDRoaXZobDB4a3BmM3Z6OTVjeHgxemkyd2RhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eGy6EBOILxokfx7OIo/giphy.gif" width="50"> A little bit about me...  
 
 ```javascript
-const thai = {
+const fahimahaq = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: ["Python", "JavaScript", "Bash", "Terraform"],
+  tools: [ "Docker","Kubernetes","Jenkins", "GitHub Actions", "Ansible","AWS","Azure" ],
+  architecture: ["CI/CD pipelines", "cloud-native", "infrastructure as code"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+
+    contributor: "Open Source DevOps Projects",
+    learner: "#90DaysOfDevOps",
+    mentor: "Beginner DevOps Learners"
+  },
+  challenge: "Currently on a 90-day DevOps learning challenge, focusing on automation, cloud, and Kubernetes"
+};
+
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1cmJtZWhtbmNvdjZldXZ6M3cxNzBqM3ViZng3YnU4NG1ybmI3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkWrm0TdM9PaYg1prH/giphy.gif" width="50"> <em><b>Always happy to meet someone new</b> so feel free to drop a <b>hello, I'll be happy to meet you more!</b> :)</em>
 
 ---
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-
-
 
 ###
 
@@ -92,12 +65,4 @@ const thai = {
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
